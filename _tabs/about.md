@@ -1,5 +1,6 @@
 ---
 # the default layout is 'page'
+title: Sobre mim
 icon: fas fa-info-circle
 order: 4
 ---
